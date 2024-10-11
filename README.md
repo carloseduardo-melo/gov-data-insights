@@ -29,15 +29,12 @@ As visualizações geradas pelo projeto incluem:
 
 - `receitas.json`: Arquivo JSON contendo as receitas por órgão.
 - `despesas.json`: Arquivo JSON contendo as despesas por órgão.
-- `analisereceitas_despesas.py`: Script principal que carrega os dados, realiza as análises e gera as visualizações.
+- `insights.py`: Script principal que carrega os dados, realiza as análises e gera as visualizações.
   
 ## 🚀 Como Executar o Projeto
 
 1. **Clone este repositório**:
-   ```bash
-   git clone https://github.com/usuario/repo
-   cd repo
-   ```
+
 
 2. **Instale as dependências**:
    Certifique-se de que você tenha o Python e pip instalados.
@@ -50,7 +47,7 @@ As visualizações geradas pelo projeto incluem:
 
 4. **Execute o script**:
    ```bash
-   python analisereceitas_despesas.py
+   python insights.py
    ```
 
 5. **Visualize os gráficos**:
